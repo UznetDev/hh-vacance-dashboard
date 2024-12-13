@@ -1,0 +1,16 @@
+env
+.env
+venv
+.venv
+env*
+.idea
+.build
+__pycache__
+.command
+.trash
+test*
+run.py
+
+
+
+mysql -u project -p project < database/database.sql
